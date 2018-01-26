@@ -9,4 +9,6 @@ HumanResponderRTs: Target discrimination RTs in the human responder (gaze cueing
 DescriptivesAndQuestionnaires: Demographic information and questionnaire scores (AQ, Godspeed).  
 
 Reference:  
-Willemse, C., Marchesi, S., & Wykowska, A. (2018). Robot faces that follow gaze facilitate attentional engagement and increase their likability. Frontiers in Psychology, 9(70). doi: 10.3389/fpsycg.2018.00070
+Willemse, C., Marchesi, S., & Wykowska, A. (2018). Robot faces that follow gaze facilitate attentional engagement and increase their likability. Frontiers in Psychology, 9(70).
+
+[![DOI](https://zenodo.org/badge/118899977.svg)](https://zenodo.org/badge/latestdoi/118899977)
